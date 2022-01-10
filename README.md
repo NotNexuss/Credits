@@ -3,10 +3,10 @@
 If yes, you can fork my github repository if you want to, but you have to paste the text given below in your video description, or else you'll be in trouble
 ```
 -----------------------------------------------------------------------
-✅ CREDITS: ITZSIDHAN ✅
-This source code was made by ItzSidhan, paste this as description to avoid copyright from ItzSidhan.
-🌐 Discord: https://dsc.gg/itzsidhan
-📁 Github: https://github.com/ItzSidhan
+✅ CREDITS: ITZNEXUS ✅
+This source code was made by ItzNexus, paste this as description to avoid copyright from ItzNexus.
+🌐 Discord: https://dsc.gg/itznexus
+📁 Github: https://github.com/NotNexuss
 ------------------------------------------------------------------------
 ```
 
