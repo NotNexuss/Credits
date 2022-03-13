@@ -1,4 +1,4 @@
-# ItzSidhan's Credits
+# ItzNexus's Credits
 ### Want to use my codes on your videos?
 If yes, you can fork my github repository if you want to, but you have to paste the text given below in your video description, or else you'll be in trouble
 ```
