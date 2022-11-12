@@ -5,7 +5,7 @@ If yes, you can fork my github repository if you want to, but you have to paste 
 -----------------------------------------------------------------------
 ✅ CREDITS: ITZNEXUS ✅
 This source code was made by ItzNexus, paste this as description to avoid copyright from ItzNexus.
-🌐 Discord: https://dsc.gg/itznexus
+🌐 Discord: https://dsc.gg/notnexus
 📁 Github: https://github.com/NotNexuss
 ------------------------------------------------------------------------
 ```
